@@ -1,0 +1,27 @@
+{
+  "name": "moviedb_api",
+  "version": "1.0.0",
+  "description": "This is a course of Platzi to learn how to consume an API with JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanPabloDiaz/movieDB_API.git"
+  },
+  "keywords": [
+    "API",
+    "JS",
+    "Movie",
+    "Movies",
+    "DB",
+    "database"
+  ],
+  "author": "Juan Diaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanPabloDiaz/movieDB_API/issues"
+  },
+  "homepage": "https://github.com/JuanPabloDiaz/movieDB_API#readme"
+}

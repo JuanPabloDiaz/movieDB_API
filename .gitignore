@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# File contain the Api-key
+src/api_key.js
