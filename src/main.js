@@ -51,6 +51,3 @@ const api = axios.create({
 	  previewCategoriesContainer.appendChild(categoryContainer);
 	});
   }
-  
-  getTrendingMoviesPreview();
-  getCategegoriesPreview();
